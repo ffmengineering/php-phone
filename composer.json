@@ -1,0 +1,12 @@
+{
+    "name": "fitforme/php-phone",
+    "description": "Telephone Validation for each countries",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "name": "Attila Naghi",
+            "email": "a.naghi@fitforme.nl"
+        }
+    ],
+    "require": {}
+}
