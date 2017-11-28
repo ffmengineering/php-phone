@@ -8,7 +8,7 @@
             "email": "a.naghi@fitforme.nl"
         }
     ],
-    "version": "1.0.0",
+    "version": "1.0.2",
     "require": {},
-    "extra": { "branch-alias": { "dev-master": "1.0.0" } }
+    "extra": { "branch-alias": { "dev-master": "1.0.2" } }
 }
